@@ -47,8 +47,6 @@ Display the final state-value grid.
 # Program
 
 ```
-#GridWorld
-
 import numpy as np
 
 # Grid size (rectangular)
@@ -129,14 +127,13 @@ for r in range(rows):
 print("\nPolicy:\n")
 for row in policy:
     print(row)
+
 ```
+
 # Output
 
-```
-State Value Function: <img width="608" height="313" alt="{C2CFC88F-D8A5-48F8-B6CC-0CCEF2C86E73}" src="https://github.com/user-attachments/assets/4ce5c427-002e-49f9-a714-08743b3fed16" />
+<img width="428" height="279" alt="image" src="https://github.com/user-attachments/assets/a9e9d3c8-94f1-4275-906b-125f12f060c5" />
 
-
-```
 
 # Result
 
